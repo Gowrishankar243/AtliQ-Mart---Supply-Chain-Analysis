@@ -23,3 +23,17 @@ This project aims to transform the company's decision-making processes by provid
 ![Main Page](https://github.com/user-attachments/assets/7a394c59-46e8-41d7-8633-9dc90b524161)
 
 ---------------------------------------------------------------------------------------------------------------------
+
+
+**KEY INSIGHTS:**
+
+•	All the key metrics (OT%, IF%, OTIF%) are far below the target.   
+•	On average, orders are delayed by 0.42 days from the agreed delivery date.   
+•	Lotus Mart, Coolblue, and Acclaimed Stores have the highest number of orders and also the most delays in delivering products on time.   
+•	Ghee, curd, and butter products are the most delayed to be delivered.   
+•	There have been no noticeable improvements in any of the key metrics in the last few months.   
+•	There is a huge gap in IF% for most customers. Is it due to lower production?   
+
+----------------------------------------------------------------------------------------------------------------------   
+
+
