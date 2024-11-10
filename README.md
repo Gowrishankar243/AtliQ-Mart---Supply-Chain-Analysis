@@ -14,5 +14,6 @@ This project aims to transform the company's decision-making processes by provid
 
 **DASHBOARD**
 
-![Main Page](https://github.com/user-attachments/assets/6188aa46-d954-40fe-93e9-e75c671c3772)
+![Main Page](https://github.com/user-attachments/assets/7a394c59-46e8-41d7-8633-9dc90b524161)
+
 
